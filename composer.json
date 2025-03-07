@@ -1,5 +1,5 @@
 {
-    "name": "gregwar/captcha-bundle",
+    "name": "jc-gregwar/captcha-bundle",
     "type": "symfony-bundle",
     "description": "Captcha bundle",
     "keywords": ["symfony2", "symfony", "captcha", "bot", "visual", "code", "security", "spam"],
@@ -19,7 +19,7 @@
     "require": {
         "php": ">=8.0.2",
         "ext-gd": "*",
-        "gregwar/captcha": "^1.2.1",
+        "jc-gregwar/captcha": "^1.2.1",
         "symfony/form": "~6.0|~7.0",
         "symfony/framework-bundle": "~6.0|~7.0",
         "symfony/translation": "~6.0|^7.0",
