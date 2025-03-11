@@ -31,7 +31,7 @@
         }
     },
     "config": {
-        "github-protocols": ["https"]
+        "github-protocols": ["https"],
         "sort-packages": true
     },
     "require-dev": {
